@@ -38,5 +38,5 @@ A web browser and internet connection.
 
 ## Acknowledgments
 
-* [google](https://wwww.google.com)
+* [google](https://www.google.com)
 
